@@ -11,6 +11,7 @@ Este projeto é um gerador de QR Code desenvolvido para fins de estudo, utilizan
 <br>
 📄 Funcionalidades
 
+
 Conversão instantânea de texto/link em QR Code
 
 Interface simples e objetiva
