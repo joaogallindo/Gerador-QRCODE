@@ -1,6 +1,6 @@
 # Gerador de QR Code
 
- A aplicação permite transformar qualquer texto ou link em um QR Code funcional, explorando recursos modernos de interface e manipulação de dados no navegador.
+ A aplicação permite transformar qualquer texto ou link em um QR Code funcional, explorando recursos modernos de interface e usuablidade.
 
 <br>
 
