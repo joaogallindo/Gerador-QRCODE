@@ -15,4 +15,4 @@ Interface simples e objetiva
 
  🌐 Visualize o projeto
 ---
-👉 [Clique aqui para acessar](https://joaogallindo.github.io/Gerador-QRCODE/)
+👉 [Clique aqui para acessar](https://joaogallindo-coder.github.io/Gerador-QRCODE/)
