@@ -11,8 +11,3 @@ Conversão instantânea de texto/link em QR Code
 
 Interface simples e objetiva
 
-<br>
-
- 🌐 Visualize o projeto
----
-👉 [Clique aqui para acessar](https://joaogallindo-coder.github.io/Gerador-QRCODE/)
